@@ -1,0 +1,15 @@
+C:\Users\nwikt\source\repos\TechnikiObiektoweProjekt\TechnikiObiektoweProjekt\obj\Debug\TechnikiObiektoweProjekt.csproj.AssemblyReference.cache
+C:\Users\nwikt\source\repos\TechnikiObiektoweProjekt\TechnikiObiektoweProjekt\obj\Debug\MainWindow.g.cs
+C:\Users\nwikt\source\repos\TechnikiObiektoweProjekt\TechnikiObiektoweProjekt\obj\Debug\App.g.cs
+C:\Users\nwikt\source\repos\TechnikiObiektoweProjekt\TechnikiObiektoweProjekt\obj\Debug\TechnikiObiektoweProjekt_MarkupCompile.cache
+C:\Users\nwikt\source\repos\TechnikiObiektoweProjekt\TechnikiObiektoweProjekt\obj\Debug\TechnikiObiektoweProjekt_MarkupCompile.lref
+C:\Users\nwikt\source\repos\TechnikiObiektoweProjekt\TechnikiObiektoweProjekt\bin\Debug\TechnikiObiektoweProjekt.exe.config
+C:\Users\nwikt\source\repos\TechnikiObiektoweProjekt\TechnikiObiektoweProjekt\bin\Debug\TechnikiObiektoweProjekt.exe
+C:\Users\nwikt\source\repos\TechnikiObiektoweProjekt\TechnikiObiektoweProjekt\bin\Debug\TechnikiObiektoweProjekt.pdb
+C:\Users\nwikt\source\repos\TechnikiObiektoweProjekt\TechnikiObiektoweProjekt\obj\Debug\MainWindow.baml
+C:\Users\nwikt\source\repos\TechnikiObiektoweProjekt\TechnikiObiektoweProjekt\obj\Debug\TechnikiObiektoweProjekt.g.resources
+C:\Users\nwikt\source\repos\TechnikiObiektoweProjekt\TechnikiObiektoweProjekt\obj\Debug\TechnikiObiektoweProjekt.Properties.Resources.resources
+C:\Users\nwikt\source\repos\TechnikiObiektoweProjekt\TechnikiObiektoweProjekt\obj\Debug\TechnikiObiektoweProjekt.csproj.GenerateResource.cache
+C:\Users\nwikt\source\repos\TechnikiObiektoweProjekt\TechnikiObiektoweProjekt\obj\Debug\TechnikiObiektoweProjekt.csproj.CoreCompileInputs.cache
+C:\Users\nwikt\source\repos\TechnikiObiektoweProjekt\TechnikiObiektoweProjekt\obj\Debug\TechnikiObiektoweProjekt.exe
+C:\Users\nwikt\source\repos\TechnikiObiektoweProjekt\TechnikiObiektoweProjekt\obj\Debug\TechnikiObiektoweProjekt.pdb
